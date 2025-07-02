@@ -1,0 +1,35 @@
+/* Write your code here: */
+h1 {
+  color: rgb(33, 34, 34);
+  font-size: 50px;
+  font-weight: 300;
+}
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: blue;
+  font-weight: 600;
+}
+
+.box > p {
+  color: firebrick;
+}
+
+.box li {
+  color: blue;
+  font-weight: 150;
+}
+
+li.done {
+  color: seagreen;
+}
+
+ul p.done {
+  font-size: 0.5rem;
+}
+
+body {
+  background-color: linen;
+}
